@@ -1,0 +1,3 @@
+/home/yinbing/project/gobang/build/CMakeFiles/rebuild_cache.dir
+/home/yinbing/project/gobang/build/CMakeFiles/edit_cache.dir
+/home/yinbing/project/gobang/build/CMakeFiles/obb.dir
