@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11 -Wall -O2 -g3 -pthread  -fpermissive  -rdynamic CMakeFiles/obb.dir/src/main.cpp.o  -o obb 
